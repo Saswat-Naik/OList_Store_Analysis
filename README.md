@@ -13,3 +13,7 @@ Interact with the visuals to gain insights into the performance of the Olist sto
 Data
 
 The data for this project is provided by Olist, a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes customer data, geolocation data, product data, payment data and more.
+
+
+##Screenshot
+![image](https://github.com/Saswat-Naik/OList_Store_Analysis/assets/144523146/f72328da-a012-45ef-a7aa-d1e091463d94)
