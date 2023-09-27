@@ -17,3 +17,14 @@ The data for this project is provided by Olist, a Brazilian e-commerce platform 
 
 ##Screenshot
 ![image](https://github.com/Saswat-Naik/OList_Store_Analysis/assets/144523146/f72328da-a012-45ef-a7aa-d1e091463d94)
+
+##Sub-Dashboard 1
+##Screenshot
+![image](https://github.com/Saswat-Naik/OList_Store_Analysis/assets/144523146/c8ae0bec-3785-45a7-8755-0ae3b6ddffcd)
+#Sub-Dashbaord 2
+##Screenshot
+![image](https://github.com/Saswat-Naik/OList_Store_Analysis/assets/144523146/6fd21f50-cce3-4867-be13-affb5205362c)
+##Screenshot
+![image](https://github.com/Saswat-Naik/OList_Store_Analysis/assets/144523146/5de057a7-b204-45fd-b520-e4148e4c9688)
+
+
